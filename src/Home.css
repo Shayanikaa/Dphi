@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'poppins',sans-serif;
+}
+
+
+
+.container img{
+    padding-top: 15px;
+    padding-left: 180px;
+}
+
+.nextcontainer{
+    width: 1441px;
+    background-color: #003145;
+    color: white;
+    height: 500px;
+    display: flex;
+}
+
+.pic{
+    padding-left: 310px;
+    position: relative;
+    right: 135px;
+    top: 80px;
+    
+}
+
+.heading{
+    padding-left: 228px;
+    padding-top: 100px;
+}
+
+.heading h1{
+    font-size: 49px;
+}
+
+.heading p{
+    font-size: 19px;
+    line-height: 32px;
+}
+
+.heading button{
+    width: 206px;
+    font-size: 21px;
+    height: 45px;
+    border: 1px solid white;
+    background-color: white;
+    font-weight: 113;
+    color: #003145;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.yellowline{
+    position: absolute;
+    left: 174px;
+    top: 154px;
+    flex-direction: column;
+    justify-content: center;
+    height: 95px;
+    width:5px ;
+    display: flex;
+    background-color: #FFCE5C;
+    border: 2px solid #FFCE5C;
+}
+.sub-container{
+    background-color:#002A3B;
+    color: white;
+    width: 1441px;
+    height: 150px;
+    display: flex;
+}
+
+.icon1{
+    padding-top: 30px;
+    padding-left: 154px;
+    display: flex;
+    flex: 0.85;
+    width: 5px;
+    align-self: flex-start;
+    justify-content: space-evenly;
+   
+}
+.whiteline{
+    width: 2px;
+    height: 50px;
+    background-color: white;
+}
+.icon-text h3{
+    display: inline;
+    font-weight:200
+}
+
+.sub-container1{
+    width: 1439px;
+    height: 902px;
+}
+
+.sub-container1 h2{
+   text-align: center;
+   padding-top: 65px;
+   font-weight:600;
+}
+
+ span{
+    color: #0FA958;
+}
+
+.boxex{
+    padding: 3px;
+}
+
+.sub-container2{
+    width: 1440px;
+    height: 280px;
+    background-color: #002A3B;
+    color: white;
+    font-weight: 4px;
+}
+
+.sub-container3{
+    width: 1440px;
+    height: 550px;
+    background-color: #003145;
+    display: flex;
+    flex-direction: row;
+   
+}
+.sub-container2 input{
+    color:black;
+    padding: 3px;
+    margin-left: 193px;
+    height: 50px;
+    width: 825px;
+    margin-top: 52px;
+    border-radius: 15px;
+}
+.searchfilter{
+    display: inline;
+    justify-content: space-between;
+}
+
+.searchfilter button{
+    margin-left: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.searchbarHeading{
+    text-align: center;
+    padding-top: 50px;
+}
+.cards h2{
+    color: #003145;
+    text-align: center;
+
+}
+
+.cards button{
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    
+}
+.sub-container4{
+    width: 1440px;
+    height: 600px;
+    background-color: #003145;
+    display: flex;
+    flex-direction: row;
+   
+}

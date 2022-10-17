@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-body {
+    background: #003145;
+    height: 419px;
+}
+
+.innerBody {
+    padding-left: 127px;
+    padding-top: 96px;
+}
+
+.time {
+    font-size: 10px;
+    background: #FFCE5C;
+    width: 464px;
+    padding: 12px 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 12px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.imgClock {
+    position: relative;
+    left: 20px;
+    top: -5px;
+}
+
+.timeText {
+    position: relative;
+    text-align: center;
+    left: 5px;
+    top: -25px;
+}
+
+.bodyHead {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    padding-top: 17px;
+
+}
+
+.bodyPara {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #F8F9FD;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.category{
+    background-color: #F8F9FD;
+    height: 30px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.cat{
+    padding-left: 8px;
+    padding-top: 15px;
+}
+.tower{
+    padding-top: 2px;
+}
+
+.lowerBody {
+    padding-left: 127px;
+    padding-top: 50px;
+    padding-right: 400px;
+    font-weight: 550;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #64607D;
+}
+
+.head {
+    height: 66px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.head h5{
+    padding-top: 22px;
+    padding-left: 187px;
+}
+.greenline{
+    background-color: #44924C;
+    width: 150px;
+    height: 7px;
+    margin-left: 157px;
+    margin-top: 14px;
+    border-radius: 5px;
+}
